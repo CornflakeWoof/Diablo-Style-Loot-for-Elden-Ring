@@ -32,3 +32,7 @@ DSL4ER was written in Godot Engine 3.5.1's GDScript language. You can grab the r
 * Most of the generation logic is found in Weapon_Generator.gd. 
 * LootBank.gd defines where the generated loot is stored so it can be easily referenced
 * Weapon/ArmorBank.gd covers loading EquipParamWeapon and EquipParamProtector values from the text files provided in the "PLACE_INTO_USER_DATA_FOLDER" folder.
+
+## Credits
+
+* Massive thanks to Kehom's Forge for their fantastic Godot 3 addons pack, particularly the Database addon - http://kehomsforge.com/tutorials/multi/GodotAddonPack/part07 - which made a lot of things about this project much easier to manage.
