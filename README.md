@@ -1,6 +1,8 @@
 # Diablo Style Loot for Elden Ring
 A WIP loot generator for Elden Ring, to be used with DSMapStudio.
 
+How to Create Custom Itemlot Sets for DSL4ER - https://github.com/CornflakeWoof/Diablo-Style-Loot-for-Elden-Ring/wiki/Creating-a-Custom-Itemlot-Set
+
 ## Required Programs
 * DSMapStudio - https://github.com/soulsmods/DSMapStudio/releases/tag/release-1.06
 * An unpacked Elden Ring install - use UXM Selective Unpacker to do this, but be aware you'll need another ~60GB available for the unpacked files!  https://www.nexusmods.com/eldenring/mods/1651
