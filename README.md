@@ -12,8 +12,8 @@ How to Create Custom Itemlot Sets for DSL4ER - https://github.com/CornflakeWoof/
 
 1) Download and extract DSL4ER to a location of your choosing.
 2) When you open DSL4ER, press "OPEN EXPORT DIRECTORY"
-3) Copy and paste everything in the "PLACE_INTO_USER_DATA_FOLDER" zip file into this directory - it should ask if you want to replace a file if you've done it correctly.
-4) Restart DSL4ER or click "RELOAD CUSTOM ITEMLOTS TO FILL", "RELOAD WEAPON SETS" and "LOADED WEAPON SETS" in DSL4ER. This only has to be done once, as DSL4ER will now read these files automatically when it's started.
+3) Copy and paste everything in the "PLACE_INTO_USER_DATA_FOLDER" zip file into this directory.
+4) Restart DSL4ER to load the new data sets.
 5) Enter your desired seed into the box just under "RANDOM SEED" and click "GENERATE DIABLO LOOT" to put DSL4ER to work.
 6) Once it's finished, click "OPEN EXPORT DIRECTORY" and navigate into the "output -> [Your Seed Text]" folder. You should see a number of CSV and .json files.
 7) Extract ModEngine 2 somewhere of your choosing - I recommend putting it in a folder named "ModEngine2" in the ...steamapps/common/ELDEN RING/ folder.
