@@ -4,8 +4,7 @@ A WIP loot generator for Elden Ring, to be used with DSMapStudio.
 How to Create Custom Itemlot Sets for DSL4ER - https://github.com/CornflakeWoof/Diablo-Style-Loot-for-Elden-Ring/wiki/Creating-a-Custom-Itemlot-Set
 
 ## Required Programs
-* DSMSPortable - https://github.com/mountlover/DSMSPortable/releases/tag/v1.4.7 - USE DSMS's --fmgmerge FUNCTION TO MERGE TEXT ENTRIES INTO THE VANILLA ONES!
-* An unpacked Elden Ring install - use UXM Selective Unpacker to do this, but be aware you'll need another ~60GB available for the unpacked files!  https://www.nexusmods.com/eldenring/mods/1651
+* DSMSPortable - https://github.com/mountlover/DSMSPortable/releases/tag/v1.4.7 - Download DSMSPortable, unzip this .bat file - https://github.com/CornflakeWoof/Diablo-Style-Loot-for-Elden-Ring/files/10529609/ImportIntoDiabloLootER_release.zip - into its folder, edit the variables at the top so that the paths requested are accurate to your system, and run the .bat after generating loot to implement it into your game!
 * ModEngine 2 - https://github.com/soulsmods/ModEngine2/releases
 
 ## How To Use
