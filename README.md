@@ -16,14 +16,9 @@ How to Create Custom Itemlot Sets for DSL4ER - https://github.com/CornflakeWoof/
 5) Enter your desired seed into the box just under "RANDOM SEED" and click "GENERATE DIABLO LOOT" to put DSL4ER to work.
 6) Once it's finished, click "OPEN EXPORT DIRECTORY" and navigate into the "output -> [Your Seed Text]" folder. You should see a number of CSV and .json files.
 7) Extract ModEngine 2 somewhere of your choosing - I recommend putting it in a folder named "ModEngine2" in the ...steamapps/common/ELDEN RING/ folder.
-8) Open DSMapStudio and create a new project within the new ME2 folder - I recommend calling the project folder "diabloloot_er" so you can copy-paste my load order entry without any adjustment.
-9) Go to the "Param Editor" tab of DSMapStudio, click "EquipWeaponParam", then from the top bar click Edit -> Import CSV -> From file -> All.
-10) Navigate to your "output/[Your Seed Text] folder mentioned earlier and select "EquipWeaponParam.csv". If all goes well, you should now have a lot more entries at the bottom of the EquipWeaponParam list and the left-hand Param category text should turn green, as we have edited it.
-11) Repeat steps 9 and 10 for the other created param files, e.g. EquipParamProtector, ItemLotParam_map etc.
-12) Click the "Text Editor" tab at the top of DSMapStudio, then click Import/Export -> Import Files. Highlight all the .json files in your DSL4ER seed output folder and click open - you should get a message saying the text files have been imported.
-13) Save both the Text and Params.
-14) Head into your ModEngine folder, open "config_eldenring.toml" in a text editor, add this line at the top of your mod list:' { enabled = true, name = "diabloloot", path = "diabloloot_er" }, then save it.
-15) Run "launchmod_eldenring.bat" and (hopefully) enjoy your new custom DSL4ER-enhanced game!
+8) Follow the DSMSPortable instructions above!
+9) Head into your ModEngine folder, open "config_eldenring.toml" in a text editor, add this line at the top of your mod list:' { enabled = true, name = "diabloloot", path = "diabloloot_er" }, then save it.
+10) Run "launchmod_eldenring.bat" and (hopefully) enjoy your new custom DSL4ER-enhanced game!
 
 ## Source Code
 
